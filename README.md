@@ -1,4 +1,4 @@
-dw.liruqi.info
-==============
+dwbrowser
+=========
 
-Deep web easy browsing - dw.liruqi.info
+Deep web easy browsing.
