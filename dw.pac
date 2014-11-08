@@ -1,6 +1,6 @@
 // Author: liruqi@gmail.com
 
-var proxy = "SOCKS5 dw.liruqi.info:21;SOCKS dw.liruqi.info:21";
+var proxy = "SOCKS5 dw.liruqi.info:25;SOCKS dw.liruqi.info:25";
 
 var direct = 'DIRECT;';
 
